@@ -3,7 +3,7 @@ import phoneIcon from "/assets/icons8-iphone-14-100.png";
 import phoneHero from "/assets/chat-image.png";
 import bestPhones from "/assets/best-phones.webp";
 import phoneSwap from "/assets/phone_swap.png";
-import iphone16 from "./assets/iphone16.jpg";
+import iphone16 from "/assets/iphone16.jpg";
 import { FaArrowRightLong } from "react-icons/fa6";
 import explosions from "/assets/Animation -1744530955923.gif"
 import accessories from "/assets/Mobile_Phone_Accessories-in-China.jpg"
