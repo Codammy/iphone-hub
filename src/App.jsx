@@ -174,12 +174,12 @@ function App() {
               </h1>
               <p className="text-justify text-wrap lg:text-base pr-3 pt-5 text-sm ">Welcome to iPhoneHub — your trusted destination for everything mobile. From the latest iPhones to reliable Android alternatives, we help you stay connected with devices that fit your lifestyle, your needs, and your budget.
 
-At iPhoneHub, we do more than just sell phones. We offer smart solutions like phone swapping, comparisons, warranty coverage, and repair services — all designed to give you peace of mind and more value for your money. Our mission is simple: deliver premium devices, honest service, and real support — all in one place. Whether you’re upgrading, trading in, or exploring options, our team is here to guide you every step of the way.
+                At iPhoneHub, we do more than just sell phones. We offer smart solutions like phone swapping, comparisons, warranty coverage, and repair services — all designed to give you peace of mind and more value for your money. Our mission is simple: deliver premium devices, honest service, and real support — all in one place. Whether you’re upgrading, trading in, or exploring options, our team is here to guide you every step of the way.
 
-iPhoneHub is a subsidiary of AOY Electronics, part of the AOY Group, a global company founded in 2019 and headquartered in Helsinki, Finland 🇫🇮. We're proud to be part of a forward-thinking organization that shares our commitment to innovation, customer satisfaction, and community building.
+                <b> iPhoneHub is a subsidiary of AOY Electronics, part of the AOY Group, a global company founded in 2019 and headquartered in Helsinki, Finland . We're proud to be part of a forward-thinking organization that shares our commitment to innovation, customer satisfaction, and community building. </b>
 
-Let us know how we can help you find the perfect mobile solution!
-</p>
+                Let us know how we can help you find the perfect mobile solution!
+              </p>
               <a href="mailto:damisco005@gmail.com" className="block text-white mt-2 p-2 rounded bg-black lg:text-base w-fit text-sm">Send a Direct Message</a>
             </aside>
             <aside className="w-1/2 p-10 lg:block hidden">
@@ -194,42 +194,42 @@ Let us know how we can help you find the perfect mobile solution!
 
             <div className="grid lg:grid-cols-4 grid-cols-1 lg:gap-7 gap-4">
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/apple.jpg)'
+                backgroundImage: 'url(/assets/apple.jpg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Iphones</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/samsung_series.jpeg)'
+                backgroundImage: 'url(/assets/samsung_series.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Samsung series</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/googlephones.jpeg)'
+                backgroundImage: 'url(/assets/googlephones.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Google pixel</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/redmis.jpeg)'
+                backgroundImage: 'url(/assets/redmis.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Redmi series</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/newerPhones.jpeg)'
+                backgroundImage: 'url(/assets/newerPhones.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Tecno series</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/tecno_phones.jpeg)'
+                backgroundImage: 'url(/assets/tecno_phones.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Itel</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/phones.jpeg)'
+                backgroundImage: 'url(/assets/phones.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Infinix</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76  text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/src/assets/newerPhones.jpeg)'
+                backgroundImage: 'url(/assets/newerPhones.jpeg)'
               }}>
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Nokia</p>
               </div>
@@ -330,7 +330,7 @@ Let us know how we can help you find the perfect mobile solution!
             <a className="p-1 block hover:text-blue-500" href="#"> Terms of service</a>
           </div>
         </div>
-        <small className="mx-auto block w-fit pt-5 pb-2">&copy; IphoneHub 2024</small>
+        <small className="mx-auto block w-fit pt-5 pb-2">&copy; IphoneHub 2025</small>
       </footer>
     </article>
   )
