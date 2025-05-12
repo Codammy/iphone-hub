@@ -180,7 +180,7 @@ function App() {
 
                 Let us know how we can help you find the perfect mobile solution!
               </p>
-              <a href="mailto:damisco005@gmail.com" className="block text-white mt-2 p-2 rounded bg-black lg:text-base w-fit text-sm">Send a Direct Message</a>
+              <a href="mailto:iphonehubnga@gmail.com" className="block text-white mt-2 p-2 rounded bg-black lg:text-base w-fit text-sm">Send a Direct Message</a>
             </aside>
             <aside className="w-1/2 p-10 lg:block hidden">
               <img src={bestPhones} alt="" className="rounded-xl" />
@@ -247,7 +247,7 @@ function App() {
                 <div className="flex lg:items-center my-2 lg:my-0.5">
                   <img src={instagram} alt="" className="block lg:h-[75px] lg:w-[75px] h-[50px] w-[50px]" />
                   <div>
-                    <a href=" https://www.instagram.com/iphone.hub.ng?igsh=ajk4YW0wd3FrdzF4">
+                    <a href=" https://www.instagram.com/iphone.hub.ng?igsh=ajk4YW0wd3FrdzF4" target="_blank">
                       <p className="lg:text-lg font-bold text-pink-600">Instagram handle</p>
                       <p className="text-sm opacity-75">iphone.hub.ng</p>
                     </a>
@@ -256,7 +256,7 @@ function App() {
                 <div className="flex lg:items-center my-2 lg:my-0.5">
                   <img src={facebook} alt="" className="block lg:h-[75px] lg:w-[75px] h-[50px] w-[50px]" />
                   <div>
-                    <a href=" https://www.facebook.com/share/18hhvmVyhv/?mibextid=wwXIfr">
+                    <a href=" https://www.facebook.com/share/18hhvmVyhv/?mibextid=wwXIfr" target="_blank">
                       <p className="text-lg font-bold text-blue-600">Facebook handle</p>
                       <p className="text-sm opacity-75">Iphone-hub-NG</p>
                     </a>
@@ -265,16 +265,16 @@ function App() {
                 <div className="flex lg:items-center my-2 lg:my-0.5">
                   <img src={whatsapp} alt="" className="block lg:h-[75px] lg:w-[75px] h-[50px] w-[50px]" />
                   <div>
-                    <a href="https://wa.me/+2347068395113‬">
+                    <a href="https://api.whatsapp.com/send/?phone=%2B2347068395113&text&type=phone_number&app_absent=0‬" target="_blank">
                       <p className="lg:text-lg font-bold text-green-600">Whatsapp handle</p>
-                      <p className="text-sm opacity-75">https://wa.me/+2347068395113‬</p>
+                      <p className="text-sm opacity-75">+234 7068395113‬</p>
                     </a>
                   </div>
                 </div>
                 <div className="flex lg:items-center my-2 lg:my-0.5">
                   <img src={twitter} alt="" className="block lg:h-[75px] lg:w-[75px] h-[50px] w-[50px]" />
                   <div>
-                    <a href="https://twitter.com/iphonehubng">
+                    <a href="https://twitter.com/iphonehubng" target="_blank">
                       <p className="lg:text-lg font-bold text-black-600">Twitter handle</p>
                       <p className="text-sm opacity-75">
                         @iphonehubng
@@ -302,7 +302,7 @@ function App() {
                Amule Bus-Stop, Beside PetroCAM, Opposite Fagbems Petrol Station, iPaja, Lagos.</p>
             <p className="p-1 lg:mt-4 flex lg:flex-row items-center lg:mb-0 mb-2">
               <MdOutlineMarkEmailUnread className="lg:text-2xl mr-3 text-4xl" />
-               iphonehubnga@gmail.com, aoyelectronics@gmail.com</p>
+               <a href="mailto:iphonehubnga@gmail.com"> iphonehubnga@gmail.com </a>, <a href="mailto:aoyelectronics@gmail.com" className="ml-2"> aoyelectronics@gmail.com</a></p>
             <div className="lg:mt-4 flex lg:flex-row flex-col lg:items-center lg:mb-0 mb-2">
               <GiRotaryPhone className="lg:text-2xl mr-3 text-4xl" />
               <span className="p-1 hover:underline underline-offset-2">‪+234 8169198397‬</span>
@@ -314,7 +314,7 @@ function App() {
             <a className="block p-1 hover:text-blue-500 mt-4" href=" https://www.facebook.com/share/18hhvmVyhv/?mibextid=wwXIfr" target="_blank">Facebook</a>
             <a className="block p-1 hover:text-blue-500" href=" https://www.instagram.com/iphone.hub.ng?igsh=ajk4YW0wd3FrdzF4" target="_blank">Instagram</a>
             <a className="block p-1 hover:text-blue-500" href="https://x.com/iphonehubng" target="_blank">Twitter</a>
-            <a className="block p-1 hover:text-blue-500" href="https://wa.me/+2347068395113‬" target="_blank">Whatsapp channel</a>
+            <a className="block p-1 hover:text-blue-500" href="https://api.whatsapp.com/send/?phone=%2B2347068395113&text&type=phone_number&app_absent=0" target="_blank">Whatsapp channel</a>
           </div>
           <div className="mt-4">
             <Link to="hero-section" smooth={true} duration={500}><p className="cursor-pointer p-1 hover:text-blue-500">Home</p></Link>
@@ -328,7 +328,7 @@ function App() {
             <a className="p-1 block hover:text-blue-500" href="#"> Terms of service</a>
           </div>
         </div>
-        <small className="mx-auto block w-fit pt-5 pb-2">&copy; IphoneHub 2025</small>
+        <small className="mx-auto block w-fit pt-5 pb-2">&copy; IphoneHubNG 2025</small>
       </footer>
     </article>
   )
