@@ -18,6 +18,10 @@ import vectorImage from "/assets/4955146.png"
 import whatsapp from "/assets/whatsapp.png"
 import facebook from "/assets/facebook.png"
 import instagram from "/assets/instagram.svg"
+import iwatch from "/assets/iwatch.webp"
+import ipods from "/assets/ipods.png"
+import ipads from "/assets/ipads.png"
+import macbooks from "/assets/macbooks.png"
 import twitter from "/assets/twitter.png"
 import { HiOutlineMenuAlt1 } from "react-icons/hi";
 
@@ -48,7 +52,7 @@ function App() {
           <section className="h-[88vh] hero-section flex">
             <aside className="lg:w-[55%] m-5 pt-12 lg:ml-12">
               <h1 className=" lg:text-6xl text-3xl font-extrabold text-white">
-                Get your smartphones phones at prices that meets your <span className="text-blue-500 text-shadow-white text-shadow text-shadow-2xs">budget!</span>
+                Get your smartphones phones & Gadgets at prices that meets your <span className="text-blue-500 text-shadow-white text-shadow text-shadow-2xs">budget!</span>
               </h1>
               <Link to="service-section" smooth={true} duration={500}>
                 <button className="bg-blue-500 py-2 px-5 rounded-md w-fit mt-9 flex items-center text-white cursor-pointer hover:scale-110 transition-all">explore<FaArrowRightLong style={{ marginLeft: '10px', color: 'white' }} /></button>
@@ -214,24 +218,24 @@ function App() {
                 <p className="p-2 bg-gradient-semi-dark w-full text-center">Redmi series</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/assets/newerPhones.jpeg)'
+                backgroundImage: 'url(/assets/iwatch.webp)'
               }}>
-                <p className="p-2 bg-gradient-semi-dark w-full text-center">Tecno series</p>
+                <p className="p-2 bg-gradient-semi-dark w-full text-center">Apple Smartwatch</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/assets/tecno_phones.jpeg)'
+                backgroundImage: 'url(/assets/ipods.png)'
               }}>
-                <p className="p-2 bg-gradient-semi-dark w-full text-center">Itel</p>
+                <p className="p-2 bg-gradient-semi-dark w-full text-center">Apple earpods</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76 text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/assets/phones.jpeg)'
+                backgroundImage: 'url(/assets/ipads.png)'
               }}>
-                <p className="p-2 bg-gradient-semi-dark w-full text-center">Infinix</p>
+                <p className="p-2 bg-gradient-semi-dark w-full text-center">Ipads</p>
               </div>
               <div className="flex flex-col justify-end items-center hero-section  h-76  text-white text-xl rounded-tr-2xl rounded-tl-2xl" style={{
-                backgroundImage: 'url(/assets/newerPhones.jpeg)'
+                backgroundImage: 'url(/assets/macbooks.png)'
               }}>
-                <p className="p-2 bg-gradient-semi-dark w-full text-center">Nokia</p>
+                <p className="p-2 bg-gradient-semi-dark w-full text-center">Macbooks</p>
               </div>
             </ div>
 
