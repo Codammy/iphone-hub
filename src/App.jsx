@@ -18,10 +18,6 @@ import vectorImage from "/assets/4955146.png"
 import whatsapp from "/assets/whatsapp.png"
 import facebook from "/assets/facebook.png"
 import instagram from "/assets/instagram.svg"
-import iwatch from "/assets/iwatch.webp"
-import ipods from "/assets/ipods.png"
-import ipads from "/assets/ipads.png"
-import macbooks from "/assets/macbooks.png"
 import twitter from "/assets/twitter.png"
 import { HiOutlineMenuAlt1 } from "react-icons/hi";
 
